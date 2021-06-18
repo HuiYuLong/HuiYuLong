@@ -1,4 +1,4 @@
-### Hi, I'm Sophia 👋
+### Hi, I'm Sophia <img width="45" src="handwaving.gif">
 
 ### :woman: About me
   ---
