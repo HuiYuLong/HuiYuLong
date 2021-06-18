@@ -2,7 +2,7 @@
 
 ### :woman: About me
   ---
-  - :mortar_board: I'm a fresh graduate student with bachelor degree in computer science at SFU
+  - :mortar_board: I'm a fresh graduate student with a bachelor's degree in computer science at SFU
   - 🌱 I’m currently learning C++ / Angular ... 
   - 💬 Ask me anything about C++ / python or coding stuff, I'd love to help you~
     - Helping others always give me chances to learn new things!
